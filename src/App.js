@@ -13,10 +13,8 @@ function App() {
         <BrowserRouter>
 
           <Header />
-
               <Nav />
               <Main />
-
           <Footer />
 
         </BrowserRouter>
